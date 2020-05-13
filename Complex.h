@@ -15,6 +15,7 @@ private:
 
 public:
     Complex(double r = 0, double i = 0);
+    Complex minus( Complex myC);
 };
 
 
